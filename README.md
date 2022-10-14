@@ -8,6 +8,7 @@ necessários para serem executados.
 // This repository contains a series of questions created by our java teacher at Instituto Federal do Ceará; The folders of each question have the question statement as well as the resolution in Java language and the necessary files to be executed.
 
  questão/descrição > Question/Description 
+ 
 |questao 6| Faça um programa que receba um número real, calcule e mostre: a) a parte inteira desse número; b) a parte fracionária desse número; c) o arredondamento desse número.
 
 |questao 10| Faça um programa que leia e mostre a área de um círculo. sabe-se que: área é = 3,14 R².
