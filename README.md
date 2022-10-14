@@ -9,4 +9,6 @@ necessários para serem executados.
 
  questão/descrição > Question/Description 
  
-|questao 10| Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos.
+ |questão 5| Faça um programa que receba um número real, calcule e mostre: a) a parte inteira desse número; b) a parte fracionária desse número; c) o arredondamento desse número.
+ 
+|questão 10| Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos.
