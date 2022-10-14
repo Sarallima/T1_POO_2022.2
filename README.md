@@ -10,4 +10,5 @@ necessários para serem executados.
  questão/descrição > Question/Description 
 
 |questao 10| Faça um programa que leia e mostre a área de um círculo. sabe-se que: área é = 3,14 R².
+
 |questao 11| Faça um programa que receba a medida do ângulo formado por uma escada apoiada no chão e encostada na parede e a altura da parede onde está a ponta da escada. Calcule e mostre a medida desta escada.
