@@ -1,6 +1,6 @@
 ⁸# T1_POO_2022.2
-# LapiscoTraining
-
+# LapiscoTraining.     
+dupla responsável: sara lima/fernanda Dávyla 
 Este repositório contém uma série de questões criadas pelo nosso professor de java do Instituto Federal do Ceará;
 As pastas de cada questão possuem o enunciado da questão bem como a resolução na linguagem Java e os arquivos
 necessários para serem executados.
